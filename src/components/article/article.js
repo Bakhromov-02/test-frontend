@@ -1,5 +1,5 @@
 import classes from './article.module.css';
-import {capitalizeFirstLetter} from "../../util";
+import {capitalizeFirstLetter} from "../../utils";
 
 const Article = props => {
     const options = {   day: 'numeric', month: 'long', year: 'numeric' };

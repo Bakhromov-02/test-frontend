@@ -8,7 +8,7 @@ import classes from './add-article.module.css';
 import Button from "../../components/button/button";
 import Footer from "../../components/footer/footer";
 import axiosInstance from "../../services/api";
-import {capitalizeFirstLetter} from "../../util";
+import {capitalizeFirstLetter} from "../../utils";
 
 // const options = [
 //     {value: 'chocolate', label: 'Chocolate'},
