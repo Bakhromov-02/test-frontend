@@ -1,0 +1,16 @@
+.footer {
+    width: 100%;
+    display: flex;
+    align-items: center;
+}
+
+.footer__content {
+    margin: 3rem auto;
+}
+
+.footer__icons {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 1rem;
+}
